@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+ This project is about performing Sentiment Analysis on the "IMDB 50K movie reviews" dataset using the Natural Language Toolkit (NLTK) library. By analyzing movie reviews and classifying them as positive or negative sentiments, you can gain valuable insights into audience reactions, user preferences, and overall sentiments towards movies. Creating this project helps you understand the power of NLP and machine learning in extracting meaningful information from text data.
